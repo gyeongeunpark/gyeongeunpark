@@ -1,6 +1,6 @@
 <!--title-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=300&section=header&text=🧞‍♀️Genie's%20Github✌️&fontSize=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=🧞‍♀️Genie's%20Github✌️&fontSize=65" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
