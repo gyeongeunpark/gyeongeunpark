@@ -72,8 +72,6 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyeongeunpark&layout=compact)  
-
 <div>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=footer&text=&fontSize=65" />
   
