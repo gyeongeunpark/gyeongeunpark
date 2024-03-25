@@ -1,6 +1,6 @@
 <!--title-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=🧞‍♀️Genie's%20Github✌️&fontSize=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,30,30&height=200&section=header&text=🧞‍♀️Genie's%20Github✌️&fontSize=65" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -70,6 +70,12 @@
   </a>
 </div>
 
-
-
 <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyeongeunpark&layout=compact)  
+
+<div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=footer&text=&fontSize=65" />
+  
+</div>
+
