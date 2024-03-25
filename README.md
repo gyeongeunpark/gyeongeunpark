@@ -72,7 +72,7 @@
 
 <br>
 
-<div>
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=footer&text=&fontSize=65" />
   
 </div>
